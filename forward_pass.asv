@@ -1,0 +1,25 @@
+function [Y_hat, cache] = forward_pass(X, W1, b1, W2, b2)
+    % X: input
+    % 784 * N
+
+    % linear combination for hidden layer neurons
+    % 100 * N
+    Z1 = W1 * X + b1; 
+
+    % ReLU activation for hidden layer
+    A1 = max(Z1, 0);
+
+    % linear combination for output layer neurons
+    % 10 * N
+    Z2 = W2 * A1 + b2; 
+
+    % softmax function that convert Z2 to probabilities
+    exps = exp(Z2 - max(Z2, [], 1));
+    Y_hat = exps./sum(exps, 1);
+
+    % store the 
+    cache.Z1 = Z1;
+    cache.A1 = A1;
+    cache.Z2 = Z2;
+end
+

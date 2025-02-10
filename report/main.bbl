@@ -1,0 +1,10 @@
+\begin{thebibliography}{xx}
+
+\harvarditem[LeCun et~al.]{LeCun, Bottou, Bengio \iflanguage{brazil}{e}{and}
+  Haffner}{1998}{lecun1998gradient}
+LeCun, Y., Bottou, L., Bengio, Y. \iflanguage{brazil}{e}{and} Haffner, P.
+  \harvardyearleft 1998\harvardyearright .
+\newblock Gradient-based learning applied to document recognition, {\em
+  Proceedings of the IEEE} {\bf 86}(11):~2278--2324.
+
+\end{thebibliography}
