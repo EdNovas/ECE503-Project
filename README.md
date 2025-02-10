@@ -1,3 +1,7 @@
+# Paper
+
+https://github.com/EdNovas/ECE503-Project/blob/main/ECE_503_Project%20(1).pdf
+
 # Abstract
 
 This paper shows a small feed-forward neural network for Handwritten Digit
