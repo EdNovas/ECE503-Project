@@ -1,3 +1,5 @@
+# A Feed-Forward Neural Network for Handwritten Digit Recognition
+
 # Paper
 
 https://github.com/EdNovas/ECE503-Project/raw/main/ECE_503_Project.pdf
