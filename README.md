@@ -1,6 +1,6 @@
 # Paper
 
-https://github.com/EdNovas/ECE503-Project/main/ECE_503_Project.pdf
+https://github.com/EdNovas/ECE503-Project/raw/main/ECE_503_Project.pdf
 
 # Abstract
 
