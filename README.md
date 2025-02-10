@@ -1,3 +1,5 @@
+# Abstract
+
 This paper shows a small feed-forward neural network for Handwritten Digit
 Recognition on the MNIST dataset. The code is written in Matlab. I began with the
 process of loading and preprocessing the data, then convert the digit images into normalized vectors and perform transform class labels into one-hot encodings. The neural
